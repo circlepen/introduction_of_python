@@ -1,4 +1,4 @@
-# introduction_of_python_zh
+# introduction_to_python_zh
 This is an introduction of basic python programming in traditional Chinese, part of the contents of this project are traslated from **[intro_programming](https://github.com/ehmatthes/intro_programming)** which written by **[ehmatthes](https://github.com/ehmatthes)**, and another part of it is adapted from lesson plans of [**thumb classroom**](http://www.thumb.com.tw/)
 
 
